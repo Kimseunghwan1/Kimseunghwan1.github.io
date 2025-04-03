@@ -11,4 +11,4 @@
 
 [css_demo](http://Kimseunghwan1.github.io/css_demo.htm)
 
-[**homework3-2**](http://Kimseunghwan1.github.io/homework3-2.jpg)
+[**homework3-2**](http://Kimseunghwan1.github.io/homework3-2.png)
