@@ -24,5 +24,3 @@
 (https://kimseunghwan1.github.io/Chain.html)
 
 (https://kimseunghwan1.github.io/Voronoi.html)
-
-(https://kimseunghwan1.github.io/style.css)
